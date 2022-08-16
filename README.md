@@ -1,1 +1,1 @@
-This repo contains the analysis I have undertaken using excel
+This repo contains analysis projects I have undertaken using excel
