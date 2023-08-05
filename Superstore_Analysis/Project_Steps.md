@@ -1,5 +1,5 @@
 
-# Supersote Data Analysis
+# Superstore Data Analysis
 Stores keep records of their data in databases to keep track of things such as inventory, sales, profits and losses. Flip Beans is a fictual company which speacilizes in the sale of goods and products in three categories, Tech devices, furniture and office supplies. 
 The marketing department wants to find insights from their orders dataset for the past four years to base their upcoming advertising campigns on. 
 
